@@ -12,7 +12,7 @@ Ubuntu 16.04
     sudo apt install python3-tk
     pip3 install python3-xlib pyautogui
 
-Now you can run it!
+Now you can run it! Put your mouse in a text area. After this it will type a word and press enter over and over again.
 
 
 ## Screenshot
